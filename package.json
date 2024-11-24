@@ -1,0 +1,27 @@
+{
+  "name": "netmeds-extractor",
+  "version": "1.0.0",
+  "description": "creating data with ai",
+  "main": "langchain.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@langchain/core": "^0.1.49",
+    "@langchain/openai": "^0.0.23",
+    "axios": "^1.6.8",
+    "axios-request-throttle": "^1.0.0",
+    "csv-parser": "^3.0.0",
+    "csv-writer": "^1.6.0",
+    "docxtemplater": "^3.46.1",
+    "dotenv": "^16.4.5",
+    "fs": "^0.0.1-security",
+    "langchain": "^0.1.28",
+    "path": "^0.12.7",
+    "pizzip": "^3.1.6",
+    "util": "^0.12.5"
+  },
+  "type": "module"
+}
