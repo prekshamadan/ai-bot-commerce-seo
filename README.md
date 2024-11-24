@@ -3,4 +3,4 @@
 1. Run 'npm i'
 2. replace the product.csv with your file in the same format
 3. run node 'ai-bot.js'
-4. Checkout the document generate in word doc
+4. Checkout the word document generated in the output folder
